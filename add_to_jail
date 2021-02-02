@@ -1,0 +1,6 @@
+[thingsboard-auth]
+enabled = true
+port    = https
+filter  = thingsboard-auth
+logpath  = //var/log/thingsboard/thingsboard.log
+maxretry = 3
